@@ -1,5 +1,15 @@
 title: "PAPPL Scanning Documentation"
 description: "Complete Documentation for the PAPPL Scanning Workflow."
-theme: jekyll-theme-modernist
-baseurl: "/ScanningDocs"
+
+remote_theme: just-the-docs/just-the-docs
+plugins:
+  - jekyll-seo-tag
+
 url: "https://kappuccino111.github.io"
+baseurl: "/ScanningDocs"
+
+just_the_docs:
+  search_enabled: true
+  aux_links:
+    "GitHub Repository":
+      - "https://github.com/kappuccino111/ScanningDocs"
