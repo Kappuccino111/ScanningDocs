@@ -1,3 +1,5 @@
-theme: jekyll-theme-hacker
-title: PAPPL Scanning Documentation
+title: "PAPPL Scanning Documentation"
 description: "Complete Documentation for the PAPPL Scanning Workflow."
+theme: jekyll-theme-hacker
+baseurl: "/ScanningDocs"
+url: "https://kappuccino111.github.io"
